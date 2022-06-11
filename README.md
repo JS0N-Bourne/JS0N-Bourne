@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/JS0N-Bourne/JS0N-Bourne/blob/d8802f4d80b40ccabd3c66db7f0788e2af3824fe/blacklight.png#gh-light-mode-only)
-![MasterHead](https://github.com/JS0N-Bourne/JS0N-Bourne/blob/d8802f4d80b40ccabd3c66db7f0788e2af3824fe/orangedark.png#gh-dark-mode-only)
+![MasterHead](https://github.com/JS0N-Bourne/JS0N-Bourne/blob/a0bac314cb5f04022ad37f25b9e2f1c4fd271326/readme_header4.png#gh-light-mode-only)
+![MasterHead](https://github.com/JS0N-Bourne/JS0N-Bourne/blob/a0bac314cb5f04022ad37f25b9e2f1c4fd271326/orangedark.png#gh-dark-mode-only)
 
 <p align="center">A versatile software engineer and graphic designer highly experienced with developing high impact websites, apps and graphics. I’m a full stack developer who can articulate my ideas in an effective, compelling way.</p>
 
@@ -11,7 +11,7 @@
 
 <p align="left">🌱 I’m currently learning <b>APIs, React Native</b></>
 
-<p align="left">👨‍💻 All of my projects are available at <b>javamonsta.netlify.app</b></>
+<p align="left">👨‍💻 All of my projects are available at <b>russmccrory.com</b></>
 
 <p align="left">💬 Ask me about <b>all things web and graphic design. And music. I love music.</b></>
 

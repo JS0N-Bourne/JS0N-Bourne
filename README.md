@@ -135,7 +135,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Photoshop, Illustrator</strong> - Website design and development for local ice cream shoppe.</p>
+					<p><strong>JavaScript, CSS3, HTML5, Photoshop, Illustrator</strong> - Website design and development for local mom and pop ice cream shoppe.</p>
 				</div>
 			</td>
 	</table>

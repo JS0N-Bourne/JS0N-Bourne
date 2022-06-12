@@ -58,7 +58,7 @@
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - Game app for users to discover random, but amazing cocktail ideas. Includes targeted drink search as well.</p>
+					 <p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - This is my personal portfolio of several of my favorite web design and development projects.</p>
 				</div>
 	<tr>
 		<td width="50%">

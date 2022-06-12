@@ -122,20 +122,20 @@
 			<td width="50%">
 				<h3 align="center" color="white">Kung Fu Noodle</h2>
 				<div align="center" >  
-					<a href='https://kung-fu-noodle.netlify.app/'>
-						<img src="https://github.com/Java-Monsta/kung-fu-noodle/blob/db8481d60d8591df4c30706e0db603556b9bbf27/KungFuThumb.gif" alt="Kung Fu Noodle" height="100%" />
+					<a href='https://210icecream.netlify.app/'>
+						<img src="https://github.com/JS0N-Bourne/210icecream/blob/2c643d10b53f3be3e89e0f5dab0366ff89b2c83e/IceCreamThumb.gif" alt="Kung Fu Noodle" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/Java-Monsta/kung-fu-noodle" target="_blank">
+						<a href="https://github.com/JS0N-Bourne/210icecream" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://kung-fu-noodle.netlify.app/" target="_blank">
+						<a href="https://210icecream.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Photoshop, Illustrator</strong> - Website design and development for local mom and pop restaurant featuring authentic Chinese recipes.</p>
+					<p><strong>JavaScript, CSS3, HTML5, Photoshop, Illustrator</strong> - Website design and development for local ice cream shoppe.</p>
 				</div>
 			</td>
 	</table>

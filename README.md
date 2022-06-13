@@ -120,7 +120,7 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center" color="white">Kung Fu Noodle</h2>
+				<h3 align="center" color="white">210 Ice Cream</h2>
 				<div align="center" >  
 					<a href='https://210icecream.netlify.app/'>
 						<img src="https://github.com/JS0N-Bourne/210icecream/blob/2c643d10b53f3be3e89e0f5dab0366ff89b2c83e/IceCreamThumb.gif" alt="Kung Fu Noodle" height="100%" />

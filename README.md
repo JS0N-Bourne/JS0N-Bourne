@@ -9,11 +9,9 @@
 
 <p align="left">🔭 I’m currently working on <b>freelance projects</b></>
 
-<p align="left">🌱 I’m currently learning <b>APIs, React Native</b></>
-
 <p align="left">👨‍💻 All of my projects are available at <b>russmccrory.com</b></>
 
-<p align="left">💬 Ask me about <b>all things web and graphic design. And music. I love music.</b></>
+<p align="left">💬 Ask me about <b>all things web and graphic design. And music.</b></>
 
 <br/>
 <br/>

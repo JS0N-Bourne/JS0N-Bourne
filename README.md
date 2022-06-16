@@ -60,41 +60,41 @@
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Hipster Vintage Calculator</h2>
+			<h3 align="center" color="white">Game of Thrones Character Picker</h2>
 			<div align="center" >  
-				<a href='https://hipster-calculator.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/Hipster-Calculator-App/blob/d46e12b1e0915c90a984a6ff01df732718298a95/hipstercalc.gif" height="100%" />
+				<a href='https://gameofthrones-picker.netlify.app/'>
+					<img src="https://github.com/JS0N-Bourne/GameofThrones-Picker/blob/a322cfb47a59a40ecc1a13202b3ae50a6bc20489/img/GoT.gif" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Java-Monsta/Hipster-Calculator-App" target="_blank">
+					<a href="https://github.com/JS0N-Bourne/GameofThrones-Picker" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://hipster-calculator.netlify.app/" target="_blank">
+					<a href="https://gameofthrones-picker.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple won't be using this.</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - A quick and simple Game of Thrones app that utilizes a custom API to return character images to match their names from a drop-down menu.</p>
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
+			<h3 align="center" color="white">AccompList Full-Stack Project</h2>
 			<div align="center" >  
-				<a href='https://spaceflight.netlify.app/'>
-					<img src="https://github.com/Java-Monsta/nasa-viewer-app/blob/0a25bec20838e3b2843767580d1aa25140e85e9b/NASAViewer.gif" alt="NASA viewer" height="100%" />
+				<a href='https://accomplist.netlify.app/'>
+					<img src="https://github.com/JS0N-Bourne/AccompList/blob/e2a66f363d3385d77bfb68988f5626f86bdecdb1/images/accom-image.png" alt="Accomplist front page" height="100%" />
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/Java-Monsta/nasa-viewer-app" target="_blank">
+					<a href="https://github.com/JS0N-Bourne/AccompList" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://spaceflight.netlify.app/" target="_blank">
+					<a href="https://accomplist.netlify.app/" target="_blank">
 						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA api-powered galaxy viewer with an expected twist. Take a virtual trip through time through a captain's eyes.</p>
+				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - A personal project that I'm about 50 hours into. It compiles custom job leads, file them and make note of relevent contacts and meetings.</p>
 			</div>	
 		</td>
 		<tr>
@@ -136,6 +136,50 @@
 					<p><strong>JavaScript, CSS3, HTML5, Photoshop, Illustrator</strong> - Website design and development for local mom and pop ice cream shoppe.</p>
 				</div>
 			</td>
+			
+			
+*******************************************
+<tr>
+		<td width="50%">
+			<h3 align="center" color="white">Hipster Vintage Calculator</h2>
+			<div align="center" >  
+				<a href='https://hipster-calculator.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/Hipster-Calculator-App/blob/d46e12b1e0915c90a984a6ff01df732718298a95/hipstercalc.gif" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/Java-Monsta/Hipster-Calculator-App" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://hipster-calculator.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - When modern technology is too amazing to ignore but the heart wants what the heart wants, plus sheeple won't be using this.</p>
+			</div>
+		</td>
+		<td width="50%">
+			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
+			<div align="center" >  
+				<a href='https://spaceflight.netlify.app/'>
+					<img src="https://github.com/Java-Monsta/nasa-viewer-app/blob/0a25bec20838e3b2843767580d1aa25140e85e9b/NASAViewer.gif" alt="NASA viewer" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/Java-Monsta/nasa-viewer-app" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://spaceflight.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - NASA api-powered galaxy viewer with an expected twist. Take a virtual trip through time through a captain's eyes.</p>
+			</div>	
+		</td>			
+*******************************************					
+			
 	</table>
 </div>
 

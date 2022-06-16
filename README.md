@@ -25,7 +25,7 @@
 				<h3 align="center" color="white">JavaScript Jeopardy</h2>
 				<div align="center" >  
 					<a href='https://jeopardy-online.netlify.app/'>
-						<img src="https://github.com/Java-Monsta/Java-Monsta/blob/e4c5e6a22099fa92363ebaffb90252a20fad5084/jeopardy_preview.gif" alt="JavaScript Jeopardy app" height="100%" />
+						<img src="https://github.com/JS0N-Bourne/Jeopardy-Game-app/blob/c618a35a460236aea441a33ab3c22d9933e3d913/images/jeopardy_app.gif" alt="JavaScript Jeopardy app" height="100%" />
 					</a>
 					<br>
 					<br>

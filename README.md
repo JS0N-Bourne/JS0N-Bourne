@@ -60,25 +60,6 @@
 				</div>
 	<tr>
 		<td width="50%">
-			<h3 align="center" color="white">Game of Thrones Character Picker</h2>
-			<div align="center" >  
-				<a href='https://gameofthrones-picker.netlify.app/'>
-					<img src="https://github.com/JS0N-Bourne/GameofThrones-Picker/blob/a322cfb47a59a40ecc1a13202b3ae50a6bc20489/img/GoT.gif" height="100%" />
-				</a>
-				<br>
-				<br>
-				<p>
-					<a href="https://github.com/JS0N-Bourne/GameofThrones-Picker" target="_blank">
-						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-					</a>  
-					<a href="https://gameofthrones-picker.netlify.app/" target="_blank">
-						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
-					</a>	
-				</p>
-				<p><strong>JavaScript, CSS3, HTML5</strong> - A quick and simple Game of Thrones app that utilizes a custom API to return character images to match their names from a drop-down menu.</p>
-			</div>
-		</td>
-		<td width="50%">
 			<h3 align="center" color="white">AccompList Full-Stack Project</h2>
 			<div align="center" >  
 				<a href='https://accomplist.netlify.app/'>
@@ -96,6 +77,25 @@
 				</p>
 				<p><strong>JavaScript, CSS3, HTML5, Photoshop</strong> - A personal project that I'm about 50 hours into. It compiles custom job leads, file them and make note of relevent contacts and meetings.</p>
 			</div>	
+		</td>		
+		<td width="50%">
+			<h3 align="center" color="white">Game of Thrones Character Picker</h2>
+			<div align="center" >  
+				<a href='https://gameofthrones-picker.netlify.app/'>
+					<img src="https://github.com/JS0N-Bourne/GameofThrones-Picker/blob/a322cfb47a59a40ecc1a13202b3ae50a6bc20489/img/GoT.gif" height="100%" />
+				</a>
+				<br>
+				<br>
+				<p>
+					<a href="https://github.com/JS0N-Bourne/GameofThrones-Picker" target="_blank">
+						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+					</a>  
+					<a href="https://gameofthrones-picker.netlify.app/" target="_blank">
+						<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=e8970c"/>
+					</a>	
+				</p>
+				<p><strong>JavaScript, CSS3, HTML5</strong> - A quick and simple Game of Thrones app that utilizes a custom API to return character images to match their names from a drop-down menu.</p>
+			</div>
 		</td>
 		<tr>
 			<td width="50%">

@@ -160,7 +160,7 @@
 			</div>
 		</td>
 		<td width="50%">
-			<h3 align="center" color="white">NASA Galaxy Viewer</h2>
+			<h3 align="center" color="white">SpaceFlight APOD App</h2>
 			<div align="center" >  
 				<a href='https://spaceflight.netlify.app/'>
 					<img src="https://github.com/Java-Monsta/nasa-viewer-app/blob/0a25bec20838e3b2843767580d1aa25140e85e9b/NASAViewer.gif" alt="NASA viewer" height="100%" />
